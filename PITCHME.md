@@ -2,8 +2,9 @@
 
 
 *Matteo Ghetta* matteo.ghetta@faunalia.eu
+*Paolo Cavallini* cavallini@faunalia.it
 
-[Faunalia](https://www.faunalia.eu) e [QGIS IT](https://www.qgis.it)
+[Faunalia](https://www.faunalia.eu), [QGIS ORG](https://www.qgis.org), [QGIS IT](https://www.qgis.it)
 
 FOSS4G-IT-2018 Roma, 21/02/2018
 
