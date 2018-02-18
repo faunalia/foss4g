@@ -18,8 +18,8 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 * aggiornamento librerie di base
 
-  * Qt4 -> Qt5
-  * python2 -> python3
+    * Qt4 -> Qt5
+    * python2 -> python3
 
 * mantenimento nel tempo
 * codice più chiaro
