@@ -5,7 +5,7 @@
 
 *Paolo Cavallini* cavallini@faunalia.it
 
-[Faunalia](https://www.faunalia.eu), [QGIS ORG](https://www.qgis.org), [QGIS IT](https://www.qgis.it)
+[Faunalia](https://www.faunalia.eu), [QGIS.ORG](https://www.qgis.org), [QGIS-IT](https://www.qgis.it)
 
 FOSS4G-IT-2018 Roma, 21/02/2018
 
@@ -31,7 +31,8 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 - Migrazione a Qt5 e Python 3 completata
 - Helper per la migrazione dei plugins da Python 2 a 3
-- Ristrutturazione delle proprietà dei layer: codice modulare
+- Ristrutturazione delle proprietà dei layer
+    -codice modulare
 - *Task manager* per la gestione dei processi lunghi
 
 ---?image=assets/taskmanager.png&size=contain
@@ -45,7 +46,7 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 * <span style="color:gray">Helper per la migrazione dei plugins da Python 2 a 3</span>
 * <span style="color:gray">Ristrutturazione delle proprietà dei layer: codice modulare</span>
 * <span style="color:gray">*Task manager* per la gestione dei processi lunghi</span>
-* supporto nativo per 3D
+* Supporto nativo per 3D
 
 ---?image=assets/3d.png&size=contain
 
@@ -57,7 +58,7 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 * [Profili utente e impostazioni unificate](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/82)
 * [Ridisegno dell'interfaccia utente per campi, widgets e moduli](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/37)
 
-    * chiara separazione fra la gestione dei campi e i moduli
+    * chiara separazione fra la gestione di campi e moduli
 
 * [Ristrutturazione di QGIS server](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/74)
 * [Strumento vertici migliorato](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/69)
@@ -70,11 +71,11 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 ## Cosa è stato fatto (3)
 
 * [Ristrutturazione del sistema di stampa](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/39)
-* [Stampa di report complessi](https://north-road.com/qgis-layout-and-reporting-engine-campaign/)
+    * [Stampa di report complessi](https://north-road.com/qgis-layout-and-reporting-engine-campaign/)
 * [Miglioramenti alla gestione dei metadati](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/50)
 * [Sistema di help unificato](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/51)
 * [Documentazione algoritmi Processing](http://blog.qgis.org/2017/04/30/qgis-grant-programme-2-results/)
-* molte altri miglioramenti *nascosti*
+* Molti altri miglioramenti *nascosti*
 
 ---?image=assets/processing_help.png&size=contain
 
@@ -83,10 +84,10 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 ## Cose ancora da fare
 
-* [Ristrutturazione del registro dei layer e legenda](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/76)
+* [Ristrutturazione della legenda](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/76)
 
-  * aprire >1 progetto simultaneamente
-  * migliore gestione dei layers embedded
+    * aprire >1 progetto simultaneamente
+    * migliore gestione dei layers inclusi
 
 * Continuare *Porting* algoritmi Processing in `C++`
 * [Miglioramento supporto 3D](https://www.lutraconsulting.co.uk/crowdfunding/more-qgis-3d/)
@@ -111,8 +112,8 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 ## Cosa rimane da fare
 
 * Backup e versionamento dei files di progetto
-* Miglioramenti a Processing
-* Maggior numero di test
+* Miglioramenti all'interfaccia di Processing
+* Aumentare ancora il numero di test
 * Documentazione completa dei cambiamenti delle API
 
 * [Una lista completa](https://github.com/qgis/QGIS-Enhancement-Proposals/issues)
@@ -155,7 +156,7 @@ FOSS4G-IT-2018 Roma, 21/02/2018
     * algoritmi per il calcolo dei network
     * vari altri algoritmi
     * plugins (heatmap, zonal stats, ecc.) spostati in Processing
-    * miglioramenti del modeler
+    * miglioramenti del modellatore grafico
 
 ---
 
@@ -168,8 +169,7 @@ FOSS4G-IT-2018 Roma, 21/02/2018
     * [refresh automatico della mappa](https://www.youtube.com/watch?v=TQTfpiyUwXk&feature=youtu.be)
     * [refresh più veloce per progetti con etichette](https://github.com/qgis/QGIS/pull/4110)
     * miglioramenti nella gestione dei moduli
-    * constraints, autocompletamento, ecc.
-    * editing diretto dei raster
+        * constraints, autocompletamento, ecc.
 
 ---
 
@@ -191,8 +191,6 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 
 * Iniziare ora
-
-    * plugin di compatibilità 2 --> 3
 
 * *freeze* fatto. lavoro può iniziare
 
