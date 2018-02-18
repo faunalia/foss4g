@@ -16,16 +16,16 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 ## Perché QGIS3
 
-* aggiornamento librerie di base
+- aggiornamento librerie di base
 
-    * Qt4 -> Qt5
-    * python2 -> python3
+  - Qt4 -> Qt5
+  - python2 -> python3
 
-* mantenimento nel tempo
-* codice più chiaro
-* nuove funzionalità
+- mantenimento nel tempo
+- codice più chiaro
+- nuove funzionalità
 
-* pulizia codice QGIS3 stesso (*API break*)
+- pulizia codice QGIS3 stesso (*API break*)
 
 
 ---
