@@ -84,12 +84,12 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 ## Cose ancora da fare
 
+* Continuare *Porting* algoritmi Processing in `C++`
 * Ristrutturazione della legenda
 
     * aprire >1 progetto simultaneamente
     * migliore gestione dei layers inclusi
 
-* Continuare *Porting* algoritmi Processing in `C++`
 * [Miglioramento supporto 3D](https://www.lutraconsulting.co.uk/crowdfunding/more-qgis-3d/)
 
     * supporto mappe 3D in layout di stampa
