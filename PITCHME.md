@@ -86,9 +86,9 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 * Continuare *Porting* algoritmi Processing in `C++`
 * Ristrutturazione della legenda
+
     * aprire >1 progetto simultaneamente
     * migliore gestione dei layers inclusi
-    * prova
 
 * Miglioramento supporto 3D
 
