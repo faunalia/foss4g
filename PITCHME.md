@@ -134,9 +134,9 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
   * Stili
 
+    * **tutta** la stilizzazione è ora parametrizzabile con le espressioni
     * nuove funzioni per le espressioni
     * point cluster renderer
-    * **tutta** la stilizzazione è ora parametrizzabile con le espressioni
     * migliore gestione dei simboli personalizzati
     * annotazioni con stili parametrizzati
 
@@ -150,7 +150,7 @@ FOSS4G-IT-2018 Roma, 21/02/2018
     * riproiezione al volo sempre attiva
     * correzione topologia durante le analisi
     * algoritmi per il calcolo dei network
-    * vari altri algoritmi
+    * tanti altri algoritmi nuovi
     * plugins (heatmap, zonal stats, ecc.) spostati in Processing
     * miglioramenti del modellatore grafico
 
@@ -176,7 +176,7 @@ FOSS4G-IT-2018 Roma, 21/02/2018
     * misurazione più precise
     * server più veloce (multithread)
 
-* [una lista più completa](https://gist.github.com/nyalldawson/95738ec265c7f9bdb64b15672c210bb7)
+* [una lista completa](https://gist.github.com/nyalldawson/95738ec265c7f9bdb64b15672c210bb7)
 * grafici D3 interattivi con DataPlotly
 
 ---?image=assets/dataplotly.gif&size=contain
@@ -188,7 +188,7 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 * Iniziare ora
 
-* *freeze* fatto. lavoro può iniziare
+* *freeze* fatto: lavoro può iniziare
 
     * le API cambieranno ancora, in modo incrementale
 
