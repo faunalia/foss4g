@@ -84,15 +84,13 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 ## Cose ancora da fare
 
-* Continuare Porting algoritmi Processing in C++
-* Miglioramento supporto 3D
-
-    * supporto mappe 3D in layout di stampa
-    * supporto per animazioni stile telecamera
-    
-* Ristrutturazione della legenda
-
-    * prova
+- Continuare Porting algoritmi Processing in C++
+- Helper per la migrazione dei plugins da Python 2 a 3
+- Miglioramento supporto 3D
+    - supporto mappe 3D in layout di stampa
+    - supporto per animazioni stile telecamera 
+- Ristrutturazione della legenda
+    - prova
 
 ---
 
