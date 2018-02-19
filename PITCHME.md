@@ -88,7 +88,6 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 * Ristrutturazione della legenda
 
     * prova
-
 * Miglioramento supporto 3D
 
     * supporto mappe 3D in layout di stampa
