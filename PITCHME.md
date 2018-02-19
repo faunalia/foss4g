@@ -137,7 +137,7 @@ FOSS4G-IT-2018 Roma, 21/02/2018
     * nuove funzioni per le espressioni
     * point cluster renderer
     * **tutta** la stilizzazione è ora parametrizzabile con le espressioni
-    * gestione dei simboli personalizzati più facile
+    * migliore gestione dei simboli personalizzati
     * annotazioni con stili parametrizzati
 
 ---
