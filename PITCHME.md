@@ -32,7 +32,7 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 - Migrazione a Qt5 e Python 3 completata
 - Helper per la migrazione dei plugins da Python 2 a 3
 - Ristrutturazione delle proprietà dei layer
-    -codice modulare
+    - codice modulare
 - *Task manager* per la gestione dei processi lunghi
 
 ---?image=assets/taskmanager.png&size=contain
