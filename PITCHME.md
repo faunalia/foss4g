@@ -75,7 +75,7 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 * [Miglioramenti alla gestione dei metadati](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/50)
 * [Sistema di help unificato](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/51)
 * [Documentazione algoritmi Processing](http://blog.qgis.org/2017/04/30/qgis-grant-programme-2-results/)
-* Molti altri miglioramenti *nascosti*
+* Molti altri miglioramenti
 
 ---?image=assets/processing_help.png&size=contain
 
@@ -84,7 +84,7 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 ## Cose ancora da fare
 
-* [Ristrutturazione della legenda](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/76)
+* Ristrutturazione della legenda
 
     * aprire >1 progetto simultaneamente
     * migliore gestione dei layers inclusi
