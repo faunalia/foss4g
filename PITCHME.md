@@ -93,6 +93,16 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 ---
 
+## Cose ancora da fare
+
+- *Porting* algoritmi di Processing in C++
+- Miglioramento supporto 3D
+    - prova1
+- Ristrutturazione legenda
+    - altro
+
+---
+
 ## Chi sta pagando per tutto questo?
 
 * Sponsors e donors
