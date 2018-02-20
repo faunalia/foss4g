@@ -80,7 +80,7 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 ---
 
-## Cose ancora da fare
+## Cose ancora da fare (1)
 
 - *Porting* algoritmi di Processing in C++
 - Miglioramento supporto 3D
@@ -92,6 +92,19 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 ---
 
+## Cose ancora da fare (2)
+
+* Backup e versionamento dei files di progetto
+* Miglioramenti all'interfaccia di Processing
+* Aumentare ancora il numero di test
+* Documentazione completa dei cambiamenti delle API
+
+* [Una lista completa](https://github.com/qgis/QGIS-Enhancement-Proposals/issues)
+
+
+---
+
+
 ## Chi sta pagando per tutto questo?
 
 * Sponsors e donors
@@ -101,18 +114,6 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 * QUGs: soprattutto QGIS.CH
 * Aziende che ci tengono al futuro di [QGIS](https://www.qgis.org)
 * Lavoro volontario
-
----
-
-## Cosa rimane da fare
-
-* Backup e versionamento dei files di progetto
-* Miglioramenti all'interfaccia di Processing
-* Aumentare ancora il numero di test
-* Documentazione completa dei cambiamenti delle API
-
-* [Una lista completa](https://github.com/qgis/QGIS-Enhancement-Proposals/issues)
-
 
 ---
 
