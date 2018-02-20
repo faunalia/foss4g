@@ -1,3 +1,7 @@
 a:link {
     color: green;
 }
+
+li::a::link:: {
+    color: green;
+}
