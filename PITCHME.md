@@ -1,9 +1,9 @@
 # QGIS 3: novità e sviluppo
 
 
-*Matteo Ghetta* matteo.ghetta@faunalia.eu
+*Matteo Ghetta* [matteo.ghetta@faunalia.eu](matteo.ghetta@faunalia.eu)
 
-*Paolo Cavallini* cavallini@faunalia.it
+*Paolo Cavallini* [cavallini@faunalia.it](cavallini@faunalia.it)
 
 [Faunalia](https://www.faunalia.eu), [QGIS.ORG](https://www.qgis.org), [QGIS-IT](https://www.qgis.it)
 
