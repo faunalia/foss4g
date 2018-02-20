@@ -42,7 +42,8 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 * <span style="color:gray">Migrazione a Qt5 e Python 3 completata</span>
 * <span style="color:gray">Helper per la migrazione dei plugins da Python 2 a 3</span>
-* <span style="color:gray">Ristrutturazione delle proprietà dei layer: codice modulare</span>
+* <span style="color:gray">Ristrutturazione delle proprietà dei layer:</span>
+    * <span style="color:gray">codice modulare</span>
 * <span style="color:gray">*Task manager* per la gestione dei processi lunghi</span>
 * Supporto nativo per 3D
 
