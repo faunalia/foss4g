@@ -12,6 +12,15 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 ---?image=assets/qgis3.png&size=contain
 
 ---
+## Perché QGIS3
+
+- aggiornamento delle librerie di base
+    - Qt
+    - python
+- mantenimento nel tempo
+
+
+---
 
 
 ## Perché QGIS3
