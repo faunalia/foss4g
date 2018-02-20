@@ -25,20 +25,6 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 
 ---
 
-
-## Perché QGIS3
-
-- aggiornamento librerie di base
-    - Qt4 -> Qt5
-    - python2 -> python3
-- mantenimento nel tempo
-- codice più chiaro
-- nuove funzionalità
-- pulizia codice QGIS3 stesso (*API break*)
-
-
----
-
 ## Cosa è stato fatto (1)
 
 - Migrazione a Qt5 e Python 3 completata
