@@ -95,9 +95,8 @@ FOSS4G-IT-2018 Roma, 21/02/2018
 ## Cose ancora da fare (2)
 
 * Backup e versionamento dei files di progetto
-* Miglioramenti all'interfaccia di Processing
 * Aumentare ancora il numero di test
-* Documentazione completa dei cambiamenti delle API
+* [Documentazione completa dei cambiamenti delle API  in Python](http://python.qgis.org/api/)
 
 * [Una lista completa](https://github.com/qgis/QGIS-Enhancement-Proposals/issues)
 
